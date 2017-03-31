@@ -1,0 +1,10 @@
+c:\users\laboratorios\documents\visual studio 2015\Projects\Exercicio 4\Exercicio 4\bin\Debug\Exercicio 4.exe.config
+c:\users\laboratorios\documents\visual studio 2015\Projects\Exercicio 4\Exercicio 4\bin\Debug\Exercicio 4.exe
+c:\users\laboratorios\documents\visual studio 2015\Projects\Exercicio 4\Exercicio 4\bin\Debug\Exercicio 4.pdb
+c:\users\laboratorios\documents\visual studio 2015\Projects\Exercicio 4\Exercicio 4\obj\Debug\Exercicio 4.exe
+c:\users\laboratorios\documents\visual studio 2015\Projects\Exercicio 4\Exercicio 4\obj\Debug\Exercicio 4.pdb
+C:\Users\admeng.fitness\Downloads\Lista-20170331T113640Z-001\Lista\Exercicio 4\Exercicio 4\bin\Debug\Exercicio 4.exe.config
+C:\Users\admeng.fitness\Downloads\Lista-20170331T113640Z-001\Lista\Exercicio 4\Exercicio 4\obj\Debug\Exercicio 4.exe
+C:\Users\admeng.fitness\Downloads\Lista-20170331T113640Z-001\Lista\Exercicio 4\Exercicio 4\obj\Debug\Exercicio 4.pdb
+C:\Users\admeng.fitness\Downloads\Lista-20170331T113640Z-001\Lista\Exercicio 4\Exercicio 4\bin\Debug\Exercicio 4.exe
+C:\Users\admeng.fitness\Downloads\Lista-20170331T113640Z-001\Lista\Exercicio 4\Exercicio 4\bin\Debug\Exercicio 4.pdb
